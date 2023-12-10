@@ -7,19 +7,17 @@
 
 ### 💫 About Me:
 
-### I'm Atharva currently a first year MCA student at [Sinhgad Institute of Management, Pune]@(http://cms.sinhgad.edu/sinhgad_management_institutes/siom_mca.aspx) and completed my BCA @[SGU](http://sanjayghodawatuniversity.ac.in/) and aspiring developer. Currently learning Android Developenent and C#. :octocat:
+I'm Atharva, currently a first-year MCA student at [Sinhgad Institute of Management, Pune](http://cms.sinhgad.edu/sinhgad_management_institutes/siom_mca.aspx). I completed my BCA at [SGU](http://sanjayghodawatuniversity.ac.in/) and am an aspiring developer. Currently learning Android Development and C#. :octocat:
 
 - 🔭 I’m currently working on my **personal portfolio**.
-
-- 🌱 I’m currently learning **Android Developement**
-
-- 💬 Ask me about anything through my **mail [here](mailto:atharva.mali3081@gmail.com)**, if I know I am happy to help.
+- 🌱 I’m currently learning **Android Development**.
+- 💬 Ask me about anything through my [mail](mailto:atharva.mali3081@gmail.com), if I know, I am happy to help.
 
 <br>
 
 ## 🌐 Socials:
 
-### Contact me by: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva.mali3081@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvamali3081/)
+Contact me by: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva.mali3081@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvamali3081/)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva-mali)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__atharva__3081__)
