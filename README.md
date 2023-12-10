@@ -7,7 +7,7 @@
 
 ### 💫 About Me:
 
-### I'm Atharva currently a final year BCA student @[SGU](http://sanjayghodawatuniversity.ac.in/) and aspiring developer. Currently learning Android Developenent and C#. :octocat:
+### I'm Atharva currently a first year MCA student at [Sinhgad Institute of Management, Pune]@(http://cms.sinhgad.edu/sinhgad_management_institutes/siom_mca.aspx) and completed my BCA @[SGU](http://sanjayghodawatuniversity.ac.in/) and aspiring developer. Currently learning Android Developenent and C#. :octocat:
 
 - 🔭 I’m currently working on my **personal portfolio**.
 
